@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Helpdesk Workspace" max_length="40" name="x_25591_helpdesk_w_helpdesk_workspace" type="collection"/>
+</database>
